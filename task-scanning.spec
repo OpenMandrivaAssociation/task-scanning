@@ -1,6 +1,6 @@
 Name:    task-scanning
 Version: 2011.0
-Release: 7
+Release: 8
 Summary: Metapackage for scanning
 Group:   Graphics
 License: GPL
