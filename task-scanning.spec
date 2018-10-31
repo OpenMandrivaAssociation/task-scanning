@@ -1,6 +1,6 @@
 Name:		task-scanning
 Version:	%distro_release
-Release:	5
+Release:	6
 Summary:	Metapackage for scanning
 Group:		Graphics
 License:	GPL
